@@ -61,3 +61,11 @@ Explore the interactive dashboard.
 - **Policy Makers** – Assess hospital performance and resource allocation.  
 - **Students/Researchers** – Learn about healthcare analytics and Power BI dashboarding.  
 
+
+👩‍⚕️Author
+
+**Sandra Mensah**  
+- Graduate Student in Healthcare Administration (University of North Florida)  
+- Background as a Physician Assistant with clinical care experience  
+- Skilled in Healthcare Leadership, Finance, Health IT, and Project Planning  
+- Member of ACHE (American College of Healthcare Executives) 
